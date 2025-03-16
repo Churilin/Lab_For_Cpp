@@ -1,0 +1,5 @@
+﻿  ConsoleAppCpp13_Task1.cpp
+C:\Programs\LabForCPP\Lab13\ConsoleAppCpp13_Task1\ConsoleAppCpp13_Task1\student.h(15,35): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  (компиляция исходного файла "ConsoleAppCpp13_Task1.cpp")
+  
+  ConsoleAppCpp13_Task1.vcxproj -> C:\Programs\LabForCPP\Lab13\ConsoleAppCpp13_Task1\x64\Debug\ConsoleAppCpp13_Task1.exe
